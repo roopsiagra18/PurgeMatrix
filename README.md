@@ -1,1 +1,1 @@
-# PurgeMatrix
+PurgeMatrix is a command-line tool designed for managing data purging operations from a MySQL database. It incorporates various modules to ensure safe and efficient data deletion based on server metrics, maintenance schedules, and optimal batch sizes.
